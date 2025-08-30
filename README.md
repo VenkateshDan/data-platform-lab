@@ -5,4 +5,8 @@ building pipeline spark -> hdfs -> airflow on k8 -> iceberg integration
 - [x] Spark + HDFS integration  
 - [x] Airflow DAGs (local)  
 - [ ] Airflow on Kubernetes  
-- [ ] Iceberg integration  
+- [ ] Iceberg integration
+      
+## 🐛 Troubleshooting
+
+This section documents common issues encountered during setup and development.
