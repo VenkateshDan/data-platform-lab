@@ -32,7 +32,3 @@ By default, the HDFS root is owned by `hdfs:supergroup` and normal users cannot 
 - **Takeaway**:  
 Always write Spark outputs to user-owned HDFS paths (`/user/<username>/...`) instead of root `/` to avoid permission issues.
 ````
-
-⚡ This will render nicely with headings, code blocks, and bullet points.
-
-Want me to also make a **template section** (Error / Cause / Fix / Takeaway) so you can just reuse it for every new issue you face?
